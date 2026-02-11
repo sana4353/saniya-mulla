@@ -1,0 +1,7 @@
+{
+  "name": "EduConnect AI - College Management & Chat",
+  "description": "An integrated AI-powered platform for students, faculty, and administrators. Featuring MSBTE-specific AI assistance, real-time 1-to-1 and group chats, and a comprehensive admin dashboard with a modern glassmorphism design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
